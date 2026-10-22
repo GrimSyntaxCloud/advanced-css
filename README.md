@@ -1,3 +1,13 @@
+# Archived coursework snapshot
+
+This repository is preserved as historical learning material and is no longer maintained.
+
+Third-party Advanced CSS course starter and finished examples (Natours, Trillo, Nexter), with original attribution preserved.
+
+The original files and educational attribution remain available. Historical dependencies are not patched by archiving; this snapshot should not be deployed as a current application.
+
+---
+
 # Course Material and FAQ for my Advanced CSS Course
 
 This repo contains starter files and the finished project files for all the projects contained in the course.
